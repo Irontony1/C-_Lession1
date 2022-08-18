@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\bin\Debug\net6.0\Examp001_Hello_World.exe
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\bin\Debug\net6.0\Examp001_Hello_World.deps.json
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\bin\Debug\net6.0\Examp001_Hello_World.runtimeconfig.json
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\bin\Debug\net6.0\Examp001_Hello_World.dll
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\bin\Debug\net6.0\Examp001_Hello_World.pdb
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\Examp001_Hello_World.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\Examp001_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\Examp001_Hello_World.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\Examp001_Hello_World.AssemblyInfo.cs
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\Examp001_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\Examp001_Hello_World.dll
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\refint\Examp001_Hello_World.dll
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\Examp001_Hello_World.pdb
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\Examp001_Hello_World.genruntimeconfig.cache
+C:\Users\anton\Desktop\Geek\Практика\C#\Lession1\Examples\Examp001_Hello_World\obj\Debug\net6.0\ref\Examp001_Hello_World.dll
